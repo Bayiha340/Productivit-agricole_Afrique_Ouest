@@ -10,7 +10,7 @@ Représentativité inégale des données : certains pays (BurkinaFaso, Mali, Nig
 
 Maïs : Mali, hashtag#CôtedIvoire et Ghana affichent les meilleurs rendements moyens. Cependant, nous relevons une forte variabilité, signe que les bons rendements peuvent être liés à des années exceptionnelles plutôt qu’à une performance stable.
 
-hashtag#Tomate : hashtag#Sénégal et hashtag#Niger en tête, avec le Niger qui se démarque par une stabilité remarquable de ses rendements.
+Tomate : Sénégal et hashtag#Niger en tête, avec le Niger qui se démarque par une stabilité remarquable de ses rendements.
 
 💡 Implication pour les décideurs : investir dans des pays dont les rendements sont stables (comme le Niger) sur le temps maximise la fiabilité des gains, tandis que dans d’autres, il faudra réduire la variabilité avant d’accroître la productivité.
 
